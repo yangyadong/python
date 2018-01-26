@@ -1,0 +1,8 @@
+Fri, 26 Jan 2018 14:18:28 demoCurl.py[line:55] INFO 打开<xlrd.book.Book object at 0x02FE2A50> excel表格成功
+Fri, 26 Jan 2018 14:18:28 demoCurl.py[line:58] INFO 打开<xlrd.sheet.Sheet object at 0x03007D30>表成功
+Fri, 26 Jan 2018 14:18:28 demoCurl.py[line:60] INFO 表中有2行
+Fri, 26 Jan 2018 14:18:28 demoCurl.py[line:62] INFO 表中有7列
+Fri, 26 Jan 2018 14:18:28 demoCurl.py[line:63] INFO 开始进行循环
+Fri, 26 Jan 2018 14:18:28 demoCurl.py[line:35] INFO urlhttp://10.16.77.216:50096/v1/curl/test$
+Fri, 26 Jan 2018 14:18:28 demoCurl.py[line:36] INFO paramsstockout_order_id=+SOO1801230002417&pickup_skus=%5B%7B%27sku_id%27%3A+%271000763%27%2C+%27pickup_amount+%27%3A+2%7D%5D
+Fri, 26 Jan 2018 14:18:28 demoCurl.py[line:37] INFO headersCookie=COFFEE_TOKEN%3D2e1509d2-2263-44c0-9d1c-f956a4f5b037&Content-Type=application%2Fx-www-form-urlencoded&Cache-Control=no-cache
